@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shikharsharma0108@gmail.com or shikhar@iitg.ac.in**
 
-- ⚡ Fun fact **I love learning new things and often find myself stuck into too many things at once.**
+- ⚡ Fun fact  **I love learning new things and often find myself stuck into too many things at once.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
