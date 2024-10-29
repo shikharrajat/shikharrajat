@@ -16,7 +16,7 @@
 <a href="https://stackoverflow.com/users/21651107/shikhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21651107/shikhar" height="30" width="40" /></a>
 <a href="https://instagram.com/shikhar.1408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shikhar.1408" height="30" width="40" /></a>
 
-![shikharrajat's github stats](https://github-readme-stats.vercel.app/api?username=shikharrajat&show_icons=true&theme=tokyonight)
+![shikharrajat's github stats](https://github-readme-stats.vercel.app/api?username=shikharrajat&show_icons=true&locale=en&theme=tokyonight)
 <br></br>
 
 <!--
